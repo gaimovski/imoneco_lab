@@ -1,0 +1,87 @@
+body{
+    font-family: "游ゴシック Medium","ヒラギノ角ゴ ProN W6";
+    font-size: 20px;
+}
+
+#container{
+    max-width: 1000px;
+    margin: 0 auto;
+    position: relative;
+}
+
+#avatar{
+    text-align: center;
+    vertical-align: middle;
+}
+
+h1{
+    padding-top: 20px;
+    text-align: center;
+    margin: 20px 0px 30px 0px;
+    padding: 10px 16px;
+    border-bottom: 	#ADD8E6 8px ridge;
+    font-size: 32px;
+    line-height: 40px;
+}
+
+h2{
+    margin: 10px 0px 10px 0px;
+    padding: 5px 16px;
+    text-align: center;
+    font-size: 32px;
+    line-height: 40px;
+}
+
+h3{
+    margin: -10px 0px 20px 0px;
+    padding: 5px 16px;
+    border-bottom: #ADD8E6	2px solid;
+    text-align: center;
+    font-size: 32px;
+    line-height: 40px;
+}
+
+h4{
+    margin: 0px 0px 20px 0px;
+    padding: 5px 16px;
+    border-bottom: #ADD8E6	2px solid;
+    text-align: center;
+    font-size: 32px;
+    line-height: 40px;
+}
+
+p{
+    margin: 3px;
+    text-align: center;
+}
+
+p.work{
+    margin: 300px 0px 500px 0px;
+    padding: 5px 16px;
+}
+
+.c{
+    margin: -10px 0px 0px 0px;
+    padding: 5px 16px;
+    font-size: 10px;
+}
+
+.ic{
+    text-align: center;
+}
+
+ul{
+    margin: 18px 40px;
+    padding: 0px;
+}
+
+.ic li {
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+
+.ic a {
+    margin: 0px 8px;
+    text-decoration: none    
+}
